@@ -1,0 +1,15 @@
+{
+	"name": "adf-advanubha-project",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c1c767fb-af66-431c-812f-7a9ff38bb98f",
+		"tenantId": "0169e7d9-5f7c-4819-bbdf-3c723beef621"
+	}
+}
